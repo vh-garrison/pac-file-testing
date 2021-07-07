@@ -1,3 +1,1 @@
-function FindProxyForURL(url, host) {
-return "PROXY garcologre29.garrison.local:3128;";
-}
+function FindProxyForURL(url, host) {return "PROXY remote-environment-ssl-proxy.proxy.1716-dtr3k6.dev-green.kube.local:80;";}
