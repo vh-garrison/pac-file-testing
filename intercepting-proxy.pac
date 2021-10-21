@@ -1,1 +1,1 @@
-function FindProxyForURL(url, host) {return "PROXY remote-environment-ssl-proxy.proxy.1716-dtr3k6.dev-green.kube.local:80;";}
+function FindProxyForURL(url, host) {return "PROXY ssl-proxy.proxy.1716-08blnc.dev-green.kube.local:80;";}
